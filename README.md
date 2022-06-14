@@ -8,7 +8,7 @@
 
 
 
-{Fore.PURPLE}
+
 Phone Number Tracker by @kl666v <3
 
 
