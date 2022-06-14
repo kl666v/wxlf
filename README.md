@@ -16,6 +16,4 @@ Phone Number Tracker by @kl666v <3
 
 
 ```
-#MobileVersion
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/repl-dot-it.svg' alt='repl-dot-it' height='40'>](https://replit.com/@itzSneaX/wxlf?v=1)  
+#MobileVersion [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/repl-dot-it.svg' alt='repl-dot-it' height='40'>](https://replit.com/@itzSneaX/wxlf?v=1)  
